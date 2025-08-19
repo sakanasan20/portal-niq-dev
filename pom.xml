@@ -8,11 +8,11 @@
 		<version>3.5.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.niq-dev</groupId>
-	<artifactId>portal-niq-dev</artifactId>
+	<groupId>com.niqdev</groupId>
+	<artifactId>portal</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>portal-niq-dev</name>
-	<description>Portal</description>
+	<name>NIQ Portal</name>
+	<description>NIQ Portal</description>
 	<url/>
 	<licenses>
 		<license/>
